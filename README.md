@@ -1,1 +1,1 @@
-# HackerEarth-Solution-
+# HackerEarth-Solution
